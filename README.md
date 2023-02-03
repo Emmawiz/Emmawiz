@@ -5,7 +5,7 @@ Frontend Developer
 ------------------
 
 I am a frontend developer who loves building projects with react.
-* 🌍  I'm based in Lagos, Nigeria
+
 * ✉️  You can contact me at [okechukwuemmah@gmail.com](mailto:okechukwuemmah@gmail.com)
 * 🚀  I'm currently working on [Tourist App](http://new-tourist-app.netlify.app)
 * 🧠  I'm learning Node.js
