@@ -4,11 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I am a frontend developer who loves building projects with react.
+I am a full-Stack Developer 
 
-* ✉️  You can contact me at [okechukwuemmah@gmail.com](mailto:okechukwuemmah@gmail.com)
-* 🚀  I'm currently working on [Tourist App](http://new-tourist-app.netlify.app)
-* 🧠  I'm learning Node.js
+
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
@@ -27,9 +25,6 @@ I am a frontend developer who loves building projects with react.
 </p>
 
 
-### Socials
-
-<p align="left"> <a href="https://www.facebook.com/Emmanuelokechukwuchinonyerem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Emmawiz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/@DBabanel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
